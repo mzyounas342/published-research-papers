@@ -1,17 +1,17 @@
-# The Impact of Institutional Quality on Monetary Policy Response Function: Evidence from Developed and Developing Economies
+# Examining the asymmetric effects of Pakistan's fiscal decentralization on economic growth and environmental quality
 
-**Authors:** Aimal Khan Kakar, Muhammad Zeeshan Younas, Wasim Shahid Malik  
-**Journal:** The Singapore Economic Review  
-**Received:** 23 August 2019  
-**Accepted:** 3 November 2020  
-**DOI:** [https://doi.org/10.1142/S0217590820500769](https://doi.org/10.1142/S0217590820500769)
+**Authors:** Xiaolong Li, Muhammad Zeeshan Younas, Zubaria Andlib, Sana Ullah, Sidra Sohail, Muhammad Hafeez[cite: 2]  
+**Journal:** Environmental Science and Pollution Research[cite: 2]  
+**Received:** 29 July 2020[cite: 2]  
+**Accepted:** 15 September 2020[cite: 2]  
+**DOI:** [https://doi.org/10.1007/s11356-020-10876-z](https://doi.org/10.1007/s11356-020-10876-z)[cite: 2]  
 
 ---
 
 ## Abstract
-There is a plethora of empirical evidence available which postulates that the central banks across the world respond asymmetrically to inflation. The response of monetary authorities toward inflation changes, when it reaches a threshold level. After estimating the nonlinear Taylor rule for 51 countries over the period of 1983-2015, including 28 advanced economies and 23 emerging and developing economies, we come to the conclusion that the quality of political institutions has a significant impact on the threshold level of the inflation rate. In contrast to the countries with weak institutional quality, countries with high institutional quality have a very low level of inflation rate where monetary authorities change their behavior. Our finding further reveals that the countries with low corruption, stable governments, efficient bureaucracy and well socio-economic conditions have a very low level of the inflation rate. Central banks respond aggressively in these countries when inflation exceeds a threshold level inflation rate. The socio-economic condition index has a greater impact on the inflation threshold level as compared to other sub-indexes of institutional quality. The findings imply that the improvement in institutional quality enables the central banks to keep inflation at a low level.
+This study aims to investigate the asymmetric fiscal decentralization effect on economic growth and environmental quality by using Pakistan data from 1984 to 2018. Our findings demonstrate that expenditure decentralization has asymmetric effects on economic growth and CO2 emissions in short- and long-run in Pakistan. Therefore, positive and negative fluctuations in expenditure decentralization affect economic growth and CO2 emissions differently in Pakistan. The results of asymmetric ARDL suggested that negative shock of revenue decentralization is reduced the economic growth and CO2 emissions in the short and long-run, while positive shock of revenue decentralization is reduced the economic growth and CO2 emissions. Our asymmetric results are country-specific and more effective in policy analysis in Pakistan. The outcomes of this study may also help Pakistan's local governments and the central government in addressing the problem of economic growth and environmental pollution[cite: 2].
 
 ---
 
 ## Keywords
-Monetary Policy · Taylor Rule · Institutional Quality · LSTAR Modeling
+Fiscal decentralization · Economic growth · Environmental quality · NARDL · Pakistan[cite: 2]
