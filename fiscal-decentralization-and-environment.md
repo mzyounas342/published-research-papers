@@ -1,10 +1,10 @@
 # Examining the asymmetric effects of Pakistan's fiscal decentralization on economic growth and environmental quality
 
-**Authors:** Xiaolong Li, Muhammad Zeeshan Younas, Zubaria Andlib, Sana Ullah, Sidra Sohail, Muhammad Hafeez[cite: 2]  
-**Journal:** Environmental Science and Pollution Research[cite: 2]  
-**Received:** 29 July 2020[cite: 2]  
-**Accepted:** 15 September 2020[cite: 2]  
-**DOI:** [https://doi.org/10.1007/s11356-020-10876-z](https://doi.org/10.1007/s11356-020-10876-z)[cite: 2]  
+**Authors:** Xiaolong Li, Muhammad Zeeshan Younas, Zubaria Andlib, Sana Ullah, Sidra Sohail, Muhammad Hafeez  
+**Journal:** Environmental Science and Pollution Research 
+**Received:** 29 July 2020
+**Accepted:** 15 September 2020
+**DOI:** [https://doi.org/10.1007/s11356-020-10876-z](https://doi.org/10.1007/s11356-020-10876-z)  
 
 ---
 
